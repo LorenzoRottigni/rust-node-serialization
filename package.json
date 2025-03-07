@@ -1,0 +1,9 @@
+{
+  "name": "rust-node-serialization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LorenzoRottigni/rust-node-serialization.git",
+  "author": "LorenzoRottigni <lorenzo@rottigni.net>",
+  "license": "MIT",
+  "type": "module"
+}
